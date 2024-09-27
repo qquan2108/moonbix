@@ -1,0 +1,1 @@
+query_id=AAGyY2JdAAAAALJjYl2YbSFw&user=%7B%22id%22%3A1566729138%2C%22first_name%22%3A%22Quoc%20Quan%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22quocquan2108%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727332841&hash=5afcea623bb99dd4552517fb7e4c35cf5be31dd6d824195a7b9d2ac624a0193f
